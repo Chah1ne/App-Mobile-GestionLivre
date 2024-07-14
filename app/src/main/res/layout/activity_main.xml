@@ -1,0 +1,37 @@
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentTop="true"
+    android:layout_marginLeft="10dp"
+    android:layout_marginTop="10dp"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <Button
+        android:id="@+id/btnAjout"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/ajout" />
+
+    <Button
+        android:id="@+id/btnSuppression"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/suppression" />
+
+    <Button
+        android:id="@+id/btnModification"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/modification" />
+
+    <Button
+        android:id="@+id/btnConsultation"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/consultation" />
+
+</LinearLayout>

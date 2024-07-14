@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GestionBibSQLite</string>
+    <string name="ajout">Ajout</string>
+    <string name="suppression">Suppression</string>
+    <string name="modification">Modification</string>
+    <string name="consultation">Consultation</string>
+    <string name="titre">Titre</string>
+    <string name="nbpage">Nb Page</string>
+    <string name="ajouter">Ajouter</string>
+    <string name="retour">Retour</string>
+    <string name="livre">Livre</string>
+    <string name="supprimer">Supprimer</string>
+    <string name="modifier">Modifier</string>
+
+</resources>
